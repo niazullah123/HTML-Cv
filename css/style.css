@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.box{
+    height: 250px;
+    border-radius: 10px;
+    
+    background-color: rgba(0, 0, 255, 0.599)
+    
+
+}
+.custom-image{
+    height: 120px;
+    width: 150px;
+    border-style: groove;
+   
+    
+}
+.button{
+    text-align: center;
+
+}
+.pinf{
+    color: white;
+
+    text-align: center;
+}
+.perdet{
+    text-align: justify;
+}
+.box2{
+    border-radius: 20px;
+   
+    text-align: center;
+    background-color: brown;
+    height: 20px;
+    width: 400px;
+}
